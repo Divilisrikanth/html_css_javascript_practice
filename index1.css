@@ -1,0 +1,39 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#firstdiv {
+  background-color: white;
+  height: 70px;
+  line-height: 40px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid black;
+  margin-bottom: 5px;
+}
+#seconddiv {
+  background-color: gray;
+  height: 70px;
+  line-height: 40px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid black;
+  margin-bottom: 5px;
+}
+#Thirddiv {
+  background-color: rgb(243, 145, 34);
+  height: 300px;
+  line-height: 100px;
+  padding: 100px;
+  text-align: center;
+  border: 2px solid black;
+  margin-bottom: 5px;
+}
+#footer {
+  background-color: rgb(235, 235, 75);
+  height: 200px;
+  line-height: 100px;
+  padding: 65px;
+  text-align: center;
+}
