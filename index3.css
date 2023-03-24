@@ -1,0 +1,80 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+#logo {
+  background-color: cornflowerblue;
+  height: 30px;
+  line-height: 30px;
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding-left: 20px;
+}
+#nav {
+  background-color: cornflowerblue;
+  height: 30px;
+  line-height: 30px;
+  width: 50%;
+  float: left;
+  text-align: center;
+  padding-left: 20px;
+}
+#cont {
+  background-color: tomato;
+  height: 350px;
+  width: 100%;
+  text-align: center;
+  padding: 20px;
+  line-height: 50px;
+}
+#main {
+  width: 100%;
+  height: 10px;
+  margin-bottom: 1120px;
+}
+#left {
+  background-color: gray;
+  min-height: 370px;
+  padding: 20px;
+  line-height: 200px;
+  width: 31%;
+  text-align: center;
+  float: left;
+  border: 2px solid black;
+  margin-right: 5px;
+  margin-bottom: 5px;
+}
+
+#mid {
+  background-color: tomato;
+  min-height: 370px;
+  padding: 20px;
+  line-height: 200px;
+  text-align: center;
+  width: 37%;
+  float: left;
+  border: 2px solid black;
+  margin-right: 0.4px;
+  margin-block-end: 5px;
+}
+#right {
+  background-color: rgb(206, 55, 29);
+  min-height: 370px;
+  padding: 20px;
+  line-height: 200px;
+  text-align: center;
+  width: 31%;
+  float: right;
+  border: 2px solid black;
+  margin-bottom: 5px;
+}
+#footer {
+  background-color: gold;
+  height: 140px;
+  line-height: 140px;
+  padding: 20px;
+  text-align: center;
+  border: 2px solid black;
+}
